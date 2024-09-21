@@ -106,9 +106,35 @@ After detailed testing, the conclusive product is released in phases as per the 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Similarities between agile and waterfall testing
+
+Despite their differences, agile and waterfall testing also have some similarities. Both methods aim to ensure the quality and functionality of the software, and to satisfy the customer's requirements and expectations. Both methods use various types of testing techniques and tools, such as unit testing, integration testing, system testing, regression testing, performance testing, automation testing, etc. Both methods also follow some common principles and practices of software testing, such as test design, test execution, test reporting, test management, etc.
+
+Differences between agile and waterfall 
+
+One of the main differences between agile and waterfall testing is the timing and frequency of testing. In waterfall testing, testing is done once, at the end of the development phase, and it may take a long time to complete. In agile testing, testing is done throughout the project, in every sprint, and it is done in parallel with development. This means that agile testing can detect and fix defects earlier, reduce rework, and deliver faster feedback.
+
+Another difference is the scope and flexibility of testing. In waterfall testing, testing is based on a fixed scope and requirements that are defined upfront and rarely change. In agile testing, testing is based on a dynamic scope and requirements that are constantly evolving and prioritized by the customer. This means that waterfall testing can ensure compliance and completeness of the software, but it may not meet the changing needs and preferences of the customer. Agile testing can respond to changes and deliver value to the customer, but it may not cover all the possible scenarios and risks of the software.
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+Roles and responsibilities of a Software Developer
+
+Developing applications, programs and systems using programming languages and frameworks. Maintaining and updating software to keep it functional. Collaborating with other team members to ensure best practices when developing software.
+
+Roles and responsibilities of a Quality Assurance Engineer 
+
+Design test plans, scenarios, scripts, or procedures. Document software defects, using a bug tracking system, and report defects to software developers. Identify, analyze, and document problems with program function, output, online screen, or content.
+
+Roles and responsibilities of a Project Manager
+
+A Project Manager in Software Development is a crucial role responsible for overseeing the planning, execution and delivery of software projects. They align project objectives with business goals, manage resources and mitigate risks. 
+
+
+
+
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
